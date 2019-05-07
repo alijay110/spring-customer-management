@@ -1,5 +1,6 @@
 - Pre-Requisites
- - Docker compose installed Mongo
+ - Docker 
+ - Mongo
  - Start Kafka and Zookeeper 
  - Execute a docker-compose up on folder /main/docker/kafka
 
